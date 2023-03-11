@@ -1,0 +1,19 @@
+{
+  "name": "langza",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "rajsharma333 <raj.sharma333@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/langza.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/langza.test.js"
+  }
+}
